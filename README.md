@@ -63,3 +63,12 @@ This project is licensed under the [MIT License](./LICENSE).
 **Alex (Shroomtop420™)**  
 🌍 [www.shroomtop420.com](https://www.shroomtop420.com)  
 🎯 Focused on antifragile systems, offline-first tools, and monetized GPT workflows.
+
+<!-- SHROOMTOP420-MONETIZATION-BLOCK-START -->
+## 🚀 Support & Commercial Use
+
+- **Buy full-access or commercial license:** [Pay with Stripe](https://buy.stripe.com/aFa6oHeG74DQ8ZB3LubQY01)
+- **Donate or support ongoing dev:** [Buy Me A Coffee](https://buymeacoffee.com/shroomtop420)
+
+> *Commercial use requires license. See LICENSE for terms.*
+<!-- SHROOMTOP420-MONETIZATION-BLOCK-END -->
